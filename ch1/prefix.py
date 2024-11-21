@@ -1,5 +1,5 @@
-filename = "https://nostarch.com"
-newFileName =filename.removesuffix("")
+fileName = "https://nostarch.com"
+newFileName = fileName.removesuffix("")
 
 
 
