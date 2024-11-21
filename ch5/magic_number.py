@@ -6,4 +6,4 @@ if answer != 42:
  'mushrooms' in requested_toppings
 print(True)
 'pepperoni' in requested_toppings
-# print(True)
+print(True)

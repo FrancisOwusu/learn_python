@@ -16,7 +16,7 @@ message = f"My first bicycle was a {bicycles[0].title()}."
 print(message)
 
 # Adding Elements to a List
-bicycles.append('ducati')
+bicycles.append('ducat')
 
 #Remove Element from a list
 del bicycles[1]
@@ -38,9 +38,8 @@ print(f"The first motorcycle I owned was a {first_owned.title()}.")
 # Removing an Item by Value
 motorcycles2 = ['honda', 'yamaha', 'suzuki', 'ducati']
 print(motorcycles2)
-motorcycles2.remove('ducati')
+motorcycles2.remove('ducat')
 print(motorcycles2)
-
 
 # sort list
 cars = ['bmw', 'audi', 'toyota', 'subaru']
