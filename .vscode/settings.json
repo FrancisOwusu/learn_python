@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./ch9/my_"
+    ]
+}
