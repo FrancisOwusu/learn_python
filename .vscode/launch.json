@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/fowusu/Developer/python_projects/learn_python/unit_testing",
+      "program": "/Users/fowusu/Developer/python_projects/learn_python/unit_testing/build/Debug/outDebug"
+    }
+  ]
+}
